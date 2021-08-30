@@ -120,3 +120,5 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjIzN2Y0N2QtMWM3ZC00NDk1L
 
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmViZGFkZWUtZDZmNC00NDc4LTkxZWUtOTM3MDM2MTA1MzE5%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%22f609e08c-9614-4758-adb2-a431a343959a%22%7d
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RiNTAxNWUtOWMyNy00MTFjLThiYmYtNGY3Yjc3OWNmNjY1%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%226d02c2fc-2652-4906-b0d9-e224e149df3f%22%7d
