@@ -133,3 +133,13 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWJhNDA3YjQtNjEyYy00ZDIxL
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWEzMzczNTUtMzYwYS00YWNkLWE2ZmEtNDg5MGNhMzJkOGRj%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%22f609e08c-9614-4758-adb2-a431a343959a%22%7d
 
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWM4ZjNlYWItNDRiZi00ODUzLTg4ZjQtNDcyYWU4NzZlM2I3%40thread.v2/0?context=%7b%22Tid%22%3a%2210a76712-94f6-46a2-9155-31bd8b76f937%22%2c%22Oid%22%3a%22b06a7fd6-d048-469c-8362-0a473ce837a0%22%7d
+
+•	Scrum fundamentos  (marzo de 2018)
+•	Scrum Developer (marzo de 2018)
+•	Scrum Master  (marzo de 2018)
+•	Oracle Certified Associate, Java SE 8 Programmer (marzo de 2019)
+•	Oracle Certified Professional, Java SE 8 Programmer. (septiembre de 2019)
+•	DevOps Essentials (agosto 2020)
+•	Kanban Essentials (septiembre 2020)
+•	Azure fundamentals (Microsoft) (marzo 2021)
+
